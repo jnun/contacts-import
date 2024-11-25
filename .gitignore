@@ -1,0 +1,6 @@
+### Ignore Personal Work ###
+# Ignore things I don't want to share
+
+*.swp
+workfiles/
+.DS_Store
